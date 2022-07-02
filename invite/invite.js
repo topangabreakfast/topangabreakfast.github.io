@@ -121,7 +121,7 @@ function stars() {
 }
 
 function setup() {
-  createCanvas(2500, 1500);
+  createCanvas(2500, 800);
 }
 
 
